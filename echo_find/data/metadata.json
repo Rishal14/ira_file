@@ -1,0 +1,42 @@
+[
+  {
+    "path": "data/wavs\\BAK.wav",
+    "filename": "BAK.wav"
+  },
+  {
+    "path": "data/wavs\\Beethoven_Diabelli_Variation_No._13.wav",
+    "filename": "Beethoven_Diabelli_Variation_No._13.wav"
+  },
+  {
+    "path": "data/wavs\\Circle_of_fifths_chord_progression_-_minor.wav",
+    "filename": "Circle_of_fifths_chord_progression_-_minor.wav"
+  },
+  {
+    "path": "data/wavs\\Divisive_rhythm_in_4-4_time.wav",
+    "filename": "Divisive_rhythm_in_4-4_time.wav"
+  },
+  {
+    "path": "data/wavs\\Mozart_from_Piano_Sonata_K310_first_movement.wav",
+    "filename": "Mozart_from_Piano_Sonata_K310_first_movement.wav"
+  },
+  {
+    "path": "data/wavs\\birds-chirping-241045.wav",
+    "filename": "birds-chirping-241045.wav"
+  },
+  {
+    "path": "data/wavs\\pianos-by-jtwayne-7-174717 (2).wav",
+    "filename": "pianos-by-jtwayne-7-174717 (2).wav"
+  },
+  {
+    "path": "data/wavs\\sample_1_440Hz.wav",
+    "filename": "sample_1_440Hz.wav"
+  },
+  {
+    "path": "data/wavs\\sample_2_660Hz.wav",
+    "filename": "sample_2_660Hz.wav"
+  },
+  {
+    "path": "data/wavs\\sample_3_880Hz.wav",
+    "filename": "sample_3_880Hz.wav"
+  }
+]
